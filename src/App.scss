@@ -11,13 +11,12 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-}
-
-.under-construction-title {
-  font-size: 5rem;
-  font-weight: 500;
-  color: #7bb3fe;
-  margin: 0px 50px;
-  line-height: 50px;
-  margin-bottom: 30px;
+  &-title {
+    font-size: 5rem;
+    font-weight: 500;
+    color: #7bb3fe;
+    margin: 0px 50px;
+    line-height: 50px;
+    margin-bottom: 30px;
+  }
 }
