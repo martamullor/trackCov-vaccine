@@ -1,0 +1,16 @@
+.under-construction {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  &-title {
+    font-size: 5rem;
+    font-weight: 500;
+    color: #7bb3fe;
+    margin: 0px 50px;
+    line-height: 50px;
+    margin-bottom: 30px;
+  }
+}
