@@ -1,11 +1,11 @@
 import React from "react";
-import Header from "../components/Header";
 import "./styles/home.scss";
+import UnderConstruction from "./UnderConstruction";
 
 const Home = () => {
   return (
     <div className="home">
-      <Header />
+      <UnderConstruction />
     </div>
   );
 };
