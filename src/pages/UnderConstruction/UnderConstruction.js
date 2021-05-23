@@ -1,7 +1,8 @@
 import React from "react";
-import Logo from "../icons/Logo";
+import Logo from "../../images/Logo";
+import "./UnderConstruction.scss";
 
-const App = () => {
+const UnderConstruction = () => {
   return (
     <div className="under-construction">
       <h1 className="under-construction-title">Primavera del 2021</h1>
@@ -10,4 +11,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default UnderConstruction;

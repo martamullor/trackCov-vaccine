@@ -1,5 +1,5 @@
 import React from "react";
-import UnderConstruction from "./pages/UnderConstruction";
+import UnderConstruction from "./pages/UnderConstruction/UnderConstruction";
 import "./App.scss";
 
 const App = () => {

@@ -1,6 +1,6 @@
 import React from "react";
-import "./styles/home.scss";
-import UnderConstruction from "./UnderConstruction";
+import "./home.scss";
+import UnderConstruction from "../UnderConstruction/UnderConstruction";
 
 const Home = () => {
   return (
